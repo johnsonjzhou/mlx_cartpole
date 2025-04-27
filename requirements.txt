@@ -1,0 +1,5 @@
+numpy
+mlx
+pycairo
+matplotlib
+cma
